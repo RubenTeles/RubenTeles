@@ -8,17 +8,18 @@
 </div>
 
 ###
-<div class='Div'>
-  <div class='firstDiv' align="left">
+
+<div style="width: 100%;">
+    <div style="width: 25%; height: 33px; float: left;"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="70" alt="c logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" width="70" alt="csharp logo"  />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" width="70" alt="php logo"  />
   </div>
-  <div class='secondDiv' align="center">
+  <div style="margin-center: 100%; height: 33px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="70" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" width="70" alt="microsoftsqlserver logo"  />
   </div>
-  <div class='thirdDiv' align="right">
+  <div style="margin-right: 0%; height: 33px;"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" width="70" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="50" width="70" alt="dot-net logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="50" width="70" alt="laravel logo"  />
