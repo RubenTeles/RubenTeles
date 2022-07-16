@@ -1,22 +1,4 @@
- <style type=text/css>
-         .leftdiv
-         {
-         float: left;
-         }
-         .middlediv
-         {
-         float: left;
-         }
-         .rightdiv
-         {
-         float: left;
-         }
-         div{
-         padding : 1%;
-         color: white;
-         width: 30%;
-         }
-      </style>
+
 
 <h2 align="left">Hi 👋! My name is Rúben I'm from Portugal.</h2>
 
@@ -30,21 +12,23 @@
 ###
 
 <div style="width: 100%;">
-     <div class="leftdiv">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="70" alt="c logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" width="70" alt="csharp logo"  />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" width="70" alt="php logo"  />
-  </div>
-  <div class="middlediv">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="70" alt="mysql logo"  />
+        <div style="width: 30%; height: 100px; float: left;"> 
+        <h4 align="center">Back-End</h4>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="70" alt="c logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" width="70" alt="csharp logo"  /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" width="70" alt="php logo"  />
+        </div>
+        <div style="width: 30%; margin-left: 2%; height: 100px; float: left;"> 
+        <h4 align="center">Data-Base</h4>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="70" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" width="70" alt="microsoftsqlserver logo"  />
-  </div>
-  <div class="rightdiv"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" width="70" alt="linux logo"  />
+        </div>
+        <div style="width: 30%; margin-left: 2%; height: 100px; float: left;"> 
+        <h4 align="center">Frameworks</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="50" width="70" alt="dot-net logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="50" width="70" alt="laravel logo"  />
-  </div>
-</div>
+        </div>
+    </div>
 
 ###
 
