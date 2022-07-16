@@ -1,3 +1,23 @@
+ <style type=text/css>
+         .leftdiv
+         {
+         float: left;
+         }
+         .middlediv
+         {
+         float: left;
+         }
+         .rightdiv
+         {
+         float: left;
+         }
+         div{
+         padding : 1%;
+         color: white;
+         width: 30%;
+         }
+      </style>
+
 <h2 align="left">Hi 👋! My name is Rúben I'm from Portugal.</h2>
 
 ###
@@ -10,16 +30,16 @@
 ###
 
 <div style="width: 100%;">
-    <div style="width: 25%; height: 33px; float: left;"> 
+     <div class="leftdiv">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="70" alt="c logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" width="70" alt="csharp logo"  />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" width="70" alt="php logo"  />
   </div>
-  <div style="margin-center: 100%; height: 33px;">
+  <div class="middlediv">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="70" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" width="70" alt="microsoftsqlserver logo"  />
   </div>
-  <div style="margin-right: 0%; height: 33px;"> 
+  <div class="rightdiv"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" width="70" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="50" width="70" alt="dot-net logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="50" width="70" alt="laravel logo"  />
