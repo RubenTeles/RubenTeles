@@ -38,12 +38,6 @@
   </a>
 </div>
 
-##
-
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/RubenTeles/RubenTeles/blob/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
